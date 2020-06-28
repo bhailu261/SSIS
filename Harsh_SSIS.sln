@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Harsh_SSIS", "Harsh_SSIS\Harsh_SSIS.dtproj", "{33AF79B4-866B-4DDC-BF64-FC856A566FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AF79B4-866B-4DDC-BF64-FC856A566FB5}.Development|Default.ActiveCfg = Development
+		{33AF79B4-866B-4DDC-BF64-FC856A566FB5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91CA830-62D3-44ED-AE17-8C0E0A32DCC7}
+	EndGlobalSection
+EndGlobal
